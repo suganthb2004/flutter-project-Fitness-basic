@@ -1,22 +1,12 @@
-
-**Features:**
-1. **Activity Tracking:** Log your daily activities, including workouts, walks, runs, and more.
-2. **Goal Setting:** Set personalized fitness goals based on your objectives and preferences.
-3. **Progress Monitoring:** Track your progress over time with visual graphs and statistics.
-4. **Reminder Notifications:** Set reminders to stay consistent with your fitness routine.
-5. **Calorie Counter:** Keep track of your daily calorie intake and expenditure.
-
-
 **Technologies Used:**
 - **Flutter:** UI toolkit for building natively compiled applications for mobile, web, and desktop from a single codebase.
 - **Dart:** Programming language used with Flutter for building mobile apps.
 
 **Setup Instructions:**
-1. Clone the repository from [GitHub Repository URL].
-2. Navigate to the project directory.
-3. Run `flutter pub get` to install dependencies.
-4. Connect your device or emulator.
-5. Run `flutter run` to launch the app on your device or emulator.
+1. Navigate to the project directory.
+2. Run `flutter pub get` to install dependencies.
+3. Connect your device or emulator.
+4. Run `flutter run` to launch the app on your device or emulator.
 
 
 **Project Structure:**
